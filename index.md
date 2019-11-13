@@ -4,12 +4,12 @@
 
 ### Projects 
 
-[Portfolio Optimisation in MATLAB](/sample_page)
+[Portfolio Optimisation in MATLAB - Dissertation](/sample_page)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Time Series and ARIMA Analysis of Rolls Royce Share Data](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnailRR.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
