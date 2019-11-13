@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[Portfolio Optimisation in MATLAB - Dissertation]
+#### Portfolio Optimisation in MATLAB - Dissertation
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
-[Time Series and ARIMA Analysis of Rolls Royce ($RR) Share Data]
+#### Time Series and ARIMA Analysis of Rolls Royce ($RR) Share Data
 <img src="images/dummy_thumbnailRR.jpg?raw=true"/>
 
 ---
