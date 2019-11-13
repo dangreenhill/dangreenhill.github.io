@@ -25,4 +25,4 @@ The third method of selecting optimal portfolio weightings that was explored in 
 
 From this evaluation, it is suggested that the method most applicable to real-life ﬁnancial and investment scenarios is the eﬃcient frontier due to its relative simplicity, versatility and ease of interpretation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
