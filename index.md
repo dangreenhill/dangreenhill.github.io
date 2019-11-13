@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
-[Time Series and ARIMA Analysis of Rolls Royce Share Data](/pdf/sample_presentation.pdf)
+[Time Series and ARIMA Analysis of Rolls Royce ($RR) Share Data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnailRR.jpg?raw=true"/>
 
 ---
