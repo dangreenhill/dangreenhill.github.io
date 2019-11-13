@@ -4,7 +4,7 @@
 
 ### Projects 
 
-#### Portfolio Optimisation in MATLAB - Dissertation
+#### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
