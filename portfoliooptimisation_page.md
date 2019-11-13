@@ -1,32 +1,28 @@
-## This can be your internal website page / project page
+## Portfolio Optimisation in MATLAB
 
-**Project description:** This dissertation was written to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimization problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations.
+**Project description:** This dissertation was written to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimisation problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations.
 Fully functional codes were produced in MATLAB for each one of these methods and each one was critically evaluated on its strengths and weaknesses relative to the others.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Quadratic Programming
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The Mean-Variance Markowitz portfolio optimisation problem was initially modelled into a quatdratic format that would be "matlab friendly", in order to use quadratic programming to find two optimum weightings for an investor's assets in a given portoflio - one for the greatest mean return for the lowest
+variance and one for a minimum overall variance with a desired mean return
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. The Efficient Frontier
 
-### 2. Assess assumptions on which statistical inference will be based
+Using MATLAB's pre-built "Financial Toolbox" to create a ```portfolio``` object and and utilise the premade ```BlueChipStocks``` dataset. Two separate models were constructed for the eﬃcient frontier method. The ﬁrst model allows the user to select optimal portfolios using a mean-variance efficient frontier with a deﬁned level of desired risk or return, whilst the second model allows an optimal portfolio to be chosen in such a way that the Sharpe Ratio is maximised.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/dummy_thumbnailEF.jpg?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Monte Carlo Simulation
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The third method of selecting optimal portfolio weightings that was explored in this dissertation is the method of Monte Carlo Simulations - in which the data is re-sampled in order to best estimate the probability distribution. The method utilised three premade portfolios and  MATLAB's "Optimisation Toolbox" - allowing the use of ```for``` loops and deﬁned vectors and matrices.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/dummy_thumbnailMC.jpg?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+### 4. Conclusion
+
+From this evaluation, it is suggested that the method most applicable to real-life ﬁnancial and investment scenarios is the eﬃcient frontier due to its relative simplicity, versatility and ease of interpretation
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
