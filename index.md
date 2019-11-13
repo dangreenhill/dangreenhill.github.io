@@ -4,26 +4,26 @@
 
 ### Projects 
 
-[Portfolio Optimisation in MATLAB - Dissertation](/sample_page)
+[Portfolio Optimisation in MATLAB - Dissertation]<!--(/sample_page)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
-[Time Series and ARIMA Analysis of Rolls Royce ($RR) Share Data](/pdf/sample_presentation.pdf)
+[Time Series and ARIMA Analysis of Rolls Royce ($RR) Share Data]<!--(/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnailRR.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--[Project 3 Title](http://example.com/)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Work in Progress...
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!-- - [Project 1 Title](http://example.com/)
+<!-- - [Project 2 Title](http://example.com/)
+<!-- - [Project 3 Title](http://example.com/)
+<!-- - [Project 4 Title](http://example.com/)
+<!-- - [Project 5 Title](http://example.com/)
 
 ---
 
