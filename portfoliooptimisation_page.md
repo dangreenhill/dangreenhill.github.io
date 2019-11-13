@@ -1,6 +1,7 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This dissertation was written to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimization problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations.
+Fully functional codes were produced in MATLAB for each one of these methods and each one was critically evaluated on its strengths and weaknesses relative to the others.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
