@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Portfolio Optimisation in MATLAB](/sample_page)
+<img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
