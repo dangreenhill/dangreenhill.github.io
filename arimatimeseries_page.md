@@ -10,9 +10,14 @@ Using MATLAB, an Autocorrelation Function and a Partial Autocorrelation Function
 
 ### 2. Forecast Data With ARIMA Model
 
+The resulting (1,1,0) ARIMA model produced a forecast which followed the general downwards trend of the time series with an upper and lower limit that took into account the fluctuation of the share price.
 
-### 3. Conclusion
+<img src="images/dummy_thumbnailTIMESERIES.jpg?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 4. Conclusion
+
+An ACF and PACF were then plotted using the residuals generated from the (1,1,0) ARIMA model in order to check the effectiveness of said model by identifying significant spikes on the ACF and PACF. Since there were no significant spikes on either of the plots, it can be concluded that model was effective at forecasting the future monthly values of Rolls Royce Holding PLC share prices, however, since the returned P-Value of 𝑝 = 0.537 is not significant, more experimenting could be done to find a model that is more optimal. 
+
+<img src="images/dummy_thumbnailRESIDUALS.jpg?raw=true"/>
 
 
