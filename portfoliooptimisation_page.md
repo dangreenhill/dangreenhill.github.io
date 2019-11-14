@@ -4,7 +4,7 @@
 
 ### 1. Quadratic Programming
 
-The Mean-Variance Markowitz portfolio optimisation problem was initially modelled into a quatdratic format that would be "matlab friendly", in order to use quadratic programming to find two optimum weightings for an investor's assets in a given portoflio - one for the greatest mean return for the lowest
+The Mean-Variance Markowitz portfolio optimisation problem was initially modelled into a quatdratic format that would be "MATLAB friendly", in order to use quadratic programming to find two optimum weightings for an investor's assets in a given portoflio - one for the greatest mean return for the lowest
 variance and one for a minimum overall variance with a desired mean return
 
 ### 2. The Efficient Frontier
