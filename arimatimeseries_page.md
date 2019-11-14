@@ -1,32 +1,18 @@
-## This can be your internal website page / project page
+## Time Series and ARIMA Modelling and Analysis of Rolls Royce ($RR) Share Data
 
-**Project description:** This dissertation was written to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimization problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations.
-Fully functional codes were produced in MATLAB for each one of these methods and each one was critically evaluated on its strengths and weaknesses relative to the others.
+**Project description:** In order to fit an ARIMA model that would aim to forecast the future share prices for Rolls Royce Holding PLC, previous monthly data must be collected. 50 data points were collected via Investing.com from the time period of March 2013 to April 2017. The closing value of the share on the first day of each month was used.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Identifying Which ARIMA Model To Utilise
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Using MATLAB, an Autocorrelation Function and a Partial Autocorrelation Function for my collected $RR data was created. Using the rules of identifying ARIMA models, it could be seen that the ACF plot had positive autocorrelations out to a high number of lags and the PACF plot had a sharp lag at 1. This meant that a higer order of differencing would be used as per the ACF plot, and that this time series was an AR(1) time series, thus needing a (1,1,0) ARIMA model to forecast the data effectively.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/dummy_thumbnailACFPACF.jpg?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Forecast Data With ARIMA Model
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Conclusion
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
