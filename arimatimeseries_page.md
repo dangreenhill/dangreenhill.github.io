@@ -1,6 +1,6 @@
 ## Time Series and ARIMA Modelling and Analysis of Rolls Royce ($RR) Share Data
 
-**Project description:** In order to fit an ARIMA model that would aim to forecast the future share prices for Rolls Royce Holding PLC, previous monthly data must be collected. 50 data points were collected via Investing.com from the time period of March 2013 to April 2017. The closing value of the share on the first day of each month was used.
+**Project description:** In order to fit an ARIMA model that would aim to forecast the future share prices for Rolls Royce Holding PLC, previous monthly data must be collected. Data points were collected via Investing.com from the time period of March 2013 to April 2017. The closing value of the share on the first day of each month was used.
 
 ### 1. Identifying Which ARIMA Model To Utilise
 
