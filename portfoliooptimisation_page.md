@@ -1,6 +1,6 @@
 ## Portfolio Optimisation in MATLAB - Summary
 
-**Project description:** This  57 page (including full code apendix) dissertation was written in my final year of Mathematics at Nottingham Trent University with the mission to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimisation problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations. Fully functional codes were produced in MATLAB for each one of these methods and each one was critically evaluated on its strengths and weaknesses relative to the others.
+**Project description:** This  57-page (including full code apendix) dissertation was written in my final year of Mathematics at Nottingham Trent University with the mission to explore and analyse three methods of solving the Mean-Variance Markowitz portfolio optimisation problem. The methods explored were quadratic programming, the eﬃcient frontier and Monte Carlo simulations. Fully functional codes were produced in MATLAB for each one of these methods and each one was critically evaluated on its strengths and weaknesses relative to the others.
 
 ### 1. Quadratic Programming
 
