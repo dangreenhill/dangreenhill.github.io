@@ -2,7 +2,7 @@
 
 ---
 
-### A Small Selection of Projects 
+### A Small, Scrollable Selection of Projects 
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
