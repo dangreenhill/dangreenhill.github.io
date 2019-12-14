@@ -2,7 +2,9 @@
 
 ---
 
-### A Small, Scrollable Selection of Projects 
+### A Small, Scrollable Selection of Projects
+<br>
+### Current Project: Python - Predicting the Survival of Titanic Passengers - Logistic Regresson
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
