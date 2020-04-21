@@ -4,7 +4,7 @@
 
 ### A Small, Scrollable Selection of Projects
 <br>
-Current Project: Python - Predicting the Survival of Titanic Passengers - Logistic Regression
+<b>Current Project:</b> Python for Finance - Algorithmic Trading
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
