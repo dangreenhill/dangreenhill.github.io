@@ -6,7 +6,7 @@
 <br>
 <b>Current Project:</b> Udemy: Financial Modelling for Algorithmic Trading using Python
 
-#### [Python for Finance: Algorithmic Trading](/portfoliooptimisation_page.md)
+#### [Python for Finance: Algorithmic Trading](https://nbviewer.jupyter.org/github/dangreenhill/dangreenhill.github.io/blob/master/Algorithmic%20Trading%20Tutorial.ipynb)
 <img src="images/dummy_thumbnailALGOTRADING.jpg?raw=true"/>
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
