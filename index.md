@@ -7,7 +7,7 @@
 <b>Current Project:</b> Udemy: Financial Modelling for Algorithmic Trading using Python
 
 #### [Python for Finance: Algorithmic Trading](/pythonforfinancealgorithmictrading.md)
-<img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
+<img src="images/dummy_thumbnailALGOTRADING.jpg?raw=true"/>
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
