@@ -4,7 +4,10 @@
 
 ### A Small, Scrollable Selection of Projects
 <br>
-<b>Current Project:</b> Python for Finance - Algorithmic Trading
+<b>Current Project:</b> Udemy: Financial Modelling for Algorithmic Trading using Python
+
+#### [Python for Finance: Algorithmic Trading](/pythonforfinancealgorithmictrading.md)
+<img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
 
 #### [Portfolio Optimisation in MATLAB - Dissertation](/portfoliooptimisation_page.md)
 <img src="images/dummy_thumbnailFYP.jpg?raw=true"/>
